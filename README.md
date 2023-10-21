@@ -2,3 +2,4 @@
 # github böngésző
 # próba böngésző
 # konfliktus böngésző
+# tesztkörnyezet
